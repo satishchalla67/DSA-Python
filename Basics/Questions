@@ -1,0 +1,100 @@
+Reverse a string.
+Check if a string is a palindrome.
+Find the first non-repeating character in a string.
+Count the number of vowels and consonants in a string.
+Check if two strings are anagrams.
+Replace all spaces in a string with a given character.
+Remove all duplicates from a string.
+Find the longest common prefix of a set of strings.
+Count the number of words in a string.
+Check if a string contains only digits.
+Find all substrings of a given string.
+Convert a string to uppercase.
+Convert a string to lowercase.
+Capitalize the first letter of each word in a string.
+Find the frequency of each character in a string.
+Remove all vowels from a string.
+Find the length of the longest substring without repeating characters.
+Reverse the words in a string.
+Check if two strings are rotations of each other.
+Check if a string is a valid shuffle of two other strings.
+Find the maximum and minimum elements in an array.
+Reverse an array.
+Find the sum of all elements in an array.
+Remove duplicates from an array.
+Find the second largest element in an array.
+Move all zeroes to the end of an array.
+Rotate an array by k positions.
+Find the common elements in two arrays.
+Find the missing number in an array of 1 to n.
+Find the intersection of two arrays.
+Find the union of two arrays.
+Find the count of pairs with a given sum in an array.
+Merge two sorted arrays.
+Find the contiguous subarray with the maximum sum.
+Find the longest increasing subsequence.
+Check if an array is a palindrome.
+Replace every element with the greatest element on its right.
+Find the majority element in an array.
+Find the number of occurrences of each element in an array.
+Find the missing and repeating numbers in an array.
+Check if a number is prime.
+Find the factorial of a number.
+Check if a number is a palindrome.
+Find the greatest common divisor (GCD) of two numbers.
+Find the least common multiple (LCM) of two numbers.
+Generate the first n Fibonacci numbers.
+Check if a number is an Armstrong number.
+Count the number of digits in a number.
+Reverse a number.
+Convert a decimal number to binary.
+Convert a binary number to decimal.
+Find the sum of the digits of a number.
+Find the largest prime factor of a number.
+Check if a number is a perfect square.
+Find the nth prime number.
+Check if a number is a power of two.
+Find the sum of the first n natural numbers.
+Find the sum of the squares of the first n natural numbers.
+Find the sum of the cubes of the first n natural numbers.
+Find the sum of all even numbers up to n.
+Swap two variables without using a third variable.
+Check if a year is a leap year.
+Find the area of a triangle given its base and height.
+Find the area of a circle given its radius.
+Find the perimeter of a rectangle given its length and width.
+Find the roots of a quadratic equation.
+Check if a number is even or odd.
+Find the absolute value of a number.
+Convert Celsius to Fahrenheit.
+Convert Fahrenheit to Celsius.
+Find the maximum of three numbers.
+Find the median of three numbers.
+Find the average of a list of numbers.
+Calculate the compound interest.
+Calculate the simple interest.
+Check if a string is a valid email address.
+Generate a random number within a given range.
+Find the greatest of four numbers.
+Calculate the body mass index (BMI).
+Calculate the distance between two points in a 2D plane.
+Print a right-angled triangle pattern.
+Print an inverted right-angled triangle pattern.
+Print a pyramid pattern.
+Print an inverted pyramid pattern.
+Print a diamond pattern.
+Print a square pattern.
+Print a hollow square pattern.
+Print a rectangular pattern.
+Print a hollow rectangular pattern.
+Print a half-diamond pattern.
+Convert a list to a tuple.
+Convert a tuple to a list.
+Find the largest element in a list.
+Find the smallest element in a list.
+Find the sum of elements in a list.
+Find the product of elements in a list.
+Remove duplicates from a list.
+Find the common elements in two lists.
+Merge two lists into a list of tuples.
+Check if a list is a palindrome.
